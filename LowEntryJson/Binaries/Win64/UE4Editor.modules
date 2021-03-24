@@ -1,0 +1,8 @@
+{
+	"BuildId": "14830424",
+	"Modules": 
+	{
+		"LowEntryJson": "UE4Editor-LowEntryJson.dll",
+		"LowEntryJsonEditor": "UE4Editor-LowEntryJsonEditor.dll"
+	}
+}
