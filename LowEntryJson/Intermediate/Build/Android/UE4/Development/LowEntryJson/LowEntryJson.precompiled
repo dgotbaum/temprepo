@@ -1,0 +1,10 @@
+{
+	"OutputFiles": [
+		"Module.LowEntryJson.cppa7.o",
+		"Module.LowEntryJson.cppa8.o",
+		"Module.LowEntryJson.gen.1_of_2.cppa7.o",
+		"Module.LowEntryJson.gen.2_of_2.cppa7.o",
+		"Module.LowEntryJson.gen.1_of_2.cppa8.o",
+		"Module.LowEntryJson.gen.2_of_2.cppa8.o"
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"Module.LowEntryHttpRequest.cppa7.o",
+		"Module.LowEntryHttpRequest.cppa8.o",
+		"Module.LowEntryHttpRequest.gen.cppa7.o",
+		"Module.LowEntryHttpRequest.gen.cppa8.o"
+	]
+}
